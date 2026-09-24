@@ -2,6 +2,6 @@ package com.bits.devops;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("DevOps Maven Jenkins Lab - 2022WC86159");
+        System.out.println("DevOps Continuous Integration Lab - 2022WC86159");
     }
 }
